@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)
-  array.each {|name| puts name}
+  array.each {|name| puts "1. " + name}
 end
 
 def summon_captain_planet# code an argument here
